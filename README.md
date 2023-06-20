@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🏢 Currently working at @ornikar as a Frontend Engineer
+
 📍 Currently living in Bretagne, France
 
 ### Github stats
