@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🏢 Currently working at @ornikar as a Frontend Engineer
+🏢 Currently working at @Elax-Energie as a Senior Software Engineer
 
 📍 Currently living in Bretagne, France
 
